@@ -1,0 +1,4 @@
+#Thu Jun 21 15:47:13 EDT 2018
+base.0=/Users/devuser/Workspace/tns-ng/Application1/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

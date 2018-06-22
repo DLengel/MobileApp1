@@ -1,0 +1,1 @@
+/Users/devuser/Workspace/tns-ng/Application1/platforms/android/app/src/main/assets/metadata

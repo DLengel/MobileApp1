@@ -1,0 +1,18 @@
+StackLayout {
+    margin-left: 30;
+    margin-right: 30;
+    padding-top: 125;
+    padding-bottom: 15;
+    background-color: white;
+}
+Bottom, TextField {
+    margin-left: 16;
+    margin-right: 16;
+    margin-top: 5;
+    margin-bottom: 10;
+}
+.submit-button {
+    background-color: purple;
+    color: white;
+    margin-top: 20;
+}

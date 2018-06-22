@@ -1,0 +1,7 @@
+<StackLayout>
+    <TextField hint="Username" [(ngModel)]="user.username" autocorrect="false" autocapitalizationType="none"></TextField>
+    <TextField hint="Password" secure="true" [(ngModel)]="user.password"></TextField>
+
+    <Button text="LOG IN" class="submit-button" (tap)="submit()"></Button>
+    <Button text="Create an Account"></Button>
+</StackLayout>
